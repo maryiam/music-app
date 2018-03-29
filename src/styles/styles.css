@@ -1,0 +1,44 @@
+body {
+  padding-top: 70px;
+}
+.table .btn-link {
+  padding: 0px 12px;
+}
+.panel-footer .pagination {
+  margin: 0;
+}
+.footer {
+  padding: 15px 0;
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+}
+.artist-img {
+  height: 60px;
+  width: 60px;
+}
+.artist-genre {
+  color: gray;
+  font-style: italic;
+  margin-left: 1px;
+}
+.artists {
+  margin: 5px;
+  min-height: 380px;
+}
+.pagination > li > a.active {
+  color: #23527c;
+  background-color: #eee;
+  border-color: #ddd;
+}
+ul > li > a {
+  cursor: pointer;
+}
+.disabled {
+  cursor: not-allowed;
+}
+.thumbnail{
+  min-height: 370px;
+}
+li.active > a{
+  color: #777;
+}

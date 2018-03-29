@@ -1,0 +1,10 @@
+dist/*
+!dist/index.html
+
+node_modules
+
+#Webstorm metadata
+.idea
+
+# Mac files
+.DS_Store
